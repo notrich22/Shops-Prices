@@ -1,4 +1,4 @@
-﻿#include <iostream>
+﻿#include <iostream>//12344444444444
 using namespace std;
 const int s = 5;
 int nums[s] = { 0 };
